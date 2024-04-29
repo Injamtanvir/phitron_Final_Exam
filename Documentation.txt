@@ -1,0 +1,41 @@
+#############################################################
+-------------------------------------------------------------
+######## Please Read this Before Run on Terminal ############
+-------------------------------------------------------------
+#############################################################
+
+--> lowerCase UpperCase Sensetive.
+
+--> In NID it will take only integer Input.
+
+--> This is a Simple banking System. That have some features as per 'Python OOP Final Exam' Pdf instraction.
+
+--> For Inhance security i did extra a password proterrcted environment for both admin and user.
+
+--> Here For Admin Section, Initially i made two admin in admin.py. Also admin can add new admin. Only new admin and Default admin can do their task using their email and password.
+
+		email: naimvai@gmail.com
+		password: naim123
+
+		-----------------------
+
+		email: injam@gmail.com
+		password: Injam123
+
+--> An Issued is occured due to time short i didn't solve it, during the transfer money time it shows also recipent balance to solve this i have to change whole so i did't.
+			
+			Choose an option: 6
+			Enter recipient's email: hasan
+			Enter the amount to transfer: 1000
+			Withdrawal of 1000.0 successful.
+			Your total balance is 6800.0
+			Thank you!
+			1000.0 deposited successfully.
+			Your total balance is 1000.0
+			Your total balance is 6800.0.
+			Thank you!
+			1000.0 deposited successfully.
+			Recipient's total balance is 1000.0.
+
+
+--> I tried to save total loan issued save but it doesn't work i will solve it in next.
